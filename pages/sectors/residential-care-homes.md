@@ -5,15 +5,15 @@ permalink: /residential-care-homes/
 ---
 
 # RESIDENTIAL CARE HOMES
-## Protect Your Business & People In Your Care Against
-Protect damage to your business from bacteria, viruses and infection outbreaks.
+## Protect Your Business & People
+Protect against bacteria, viruses, and infection outbreaks
 
 ## AIRS ENVIRONMENTAL
 
 ### Introduction – A Safer Environment
 Outbreaks of infections can mean not only lost revenue but also loss of reputation. Products from the AIRS ENVIRONMENTAL LTD use a unique cleaning and disinfection system that provides your care facility with the protection you need to keep your home, clients, and staff safe.
 
-### PAG – Residential & Care Home Industry
+### Residential & Care Home Industry
 Clients, their families, and care workers expect not just that the home looks and smells clean, but that it also has the highest standards in hygiene. Older patients are often more vulnerable to infection, so ensuring the home is free from harmful microorganisms is essential to minimise illness.
 
 From kitchens, bathrooms, bedrooms and treatment areas to communal areas, PAG’s range of products work at the microbial level. They clean, disinfect, remove odors, and leave an invisible layer of protection against re-infection, ensuring the welfare of those living, visiting and working in the home.
