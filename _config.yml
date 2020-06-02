@@ -1,0 +1,18 @@
+# Site Information
+title               : "AIRS Environmental"
+phone               : "07976428987"
+
+# Where things are
+source              : .
+destination         : ./_site
+
+# Plugins
+whitelist           : []
+plugins             : []
+
+# Serving
+detach              : false
+port                : 4000
+host                : 127.0.0.1
+baseurl             : "" # does not include hostname
+show_dir_listing    : false
