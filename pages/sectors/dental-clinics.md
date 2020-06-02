@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sector
 title: "Dental Clinics"
 permalink: /dental-clinics/
 ---
