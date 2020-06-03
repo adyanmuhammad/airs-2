@@ -29,7 +29,7 @@ Completion of this process will be to:
 
 <div class="row py-5 my-5" style="background-image: url(https://adyanmuhammad.github.io/airs-2/assets/img/residential-care-homes.webp); background-size: cover;">
 
-  <div class="col-12">
+  <div class="col-12 text-center text-white">
     <h3>
       Specialist Care Medical & Office Sanitation
     </h3>
