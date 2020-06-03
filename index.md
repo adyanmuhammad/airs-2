@@ -27,7 +27,7 @@ Completion of this process will be to:
 
 ### Our Specialist sanitising teams are available 24 hours a day and have an average arrival time of just over one hour in case of emergency.
 
-<div class="row py-5 my-5" style="background-image: url(https://adyanmuhammad.github.io/airs-2/assets/img/residential-care-homes.webp); background-size: cover; filter: blur(5px);">
+<div class="row py-5 my-5" style="background-image: url(https://adyanmuhammad.github.io/airs-2/assets/img/residential-care-homes.webp); background-size: cover;">
 
   <div class="col-12">
     <h3>
