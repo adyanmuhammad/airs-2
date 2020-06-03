@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sector
 title: "Trains & Public Transport"
 permalink: /trains-and-public-transport/
 image: trains-and-public-transport.webp

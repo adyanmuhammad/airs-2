@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sectors
 title: "Military, Police, & Armed Forces"
 permalink: /military-police-and-armed-forces/
 image: military-police-and-armed-forces.webp

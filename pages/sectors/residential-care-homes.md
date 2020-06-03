@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sector
 title: "Residential Care Homes"
 permalink: /residential-care-homes/
 image: residential-care-homes.webp

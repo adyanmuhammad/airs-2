@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sector
 title: "Manufacture"
 permalink: /manufacture/
 image: manufacture.webp

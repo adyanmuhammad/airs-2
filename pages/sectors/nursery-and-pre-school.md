@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: sector
 title: "Nursery & Pre-School"
 permalink: /nursery-and-pre-school/
 image: nursery-and-pre-school.webp
