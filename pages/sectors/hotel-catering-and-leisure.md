@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: sector
 title: "Hotel, Catering, & Leisure Industry"
 permalink: /hotel-catering-and-leisure/
+image: hotel-catering-and-leisure.webp
 ---
 
 # HOTEL, CATERING, & LEISURE INDUSTRY

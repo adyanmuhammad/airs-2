@@ -2,6 +2,7 @@
 layout: default
 title: "Trains & Public Transport"
 permalink: /trains-and-public-transport/
+image: trains-and-public-transport.webp
 ---
 
 # TRAINS & PUBLIC TRANSPORT

@@ -2,6 +2,7 @@
 layout: default
 title: "Residential Care Homes"
 permalink: /residential-care-homes/
+image: residential-care-homes.webp
 ---
 
 # RESIDENTIAL CARE HOMES

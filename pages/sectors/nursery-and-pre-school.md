@@ -2,6 +2,7 @@
 layout: default
 title: "Nursery & Pre-School"
 permalink: /nursery-and-pre-school/
+image: nursery-and-pre-school.webp
 ---
 
 # NURSERY & PRE-SCHOOL

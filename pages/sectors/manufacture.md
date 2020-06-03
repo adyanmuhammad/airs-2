@@ -2,6 +2,7 @@
 layout: default
 title: "Manufacture"
 permalink: /manufacture/
+image: manufacture.webp
 ---
 
 # POULTRY & POULTRY PROCESSING INDUSTRY

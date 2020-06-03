@@ -2,6 +2,7 @@
 layout: default
 title: "Vetinary & Animal Welfare Clinics"
 permalink: /vetinary-and-animal-welfare-clinics/
+image: vetinary-and-animal-welfare-clinics.webp
 ---
 
 # VETINARY & ANIMAL WELFARE CLINICS

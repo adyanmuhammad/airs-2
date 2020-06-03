@@ -2,6 +2,7 @@
 layout: default
 title: "Military, Police, & Armed Forces"
 permalink: /military-police-and-armed-forces/
+image: military-police-and-armed-forces.webp
 ---
 
 # MILITARY, POLICE, & ARMED FORCES
