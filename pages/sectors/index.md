@@ -5,7 +5,7 @@ permalink: /sectors/
 ---
 
 <div class="row">
-  <div class="col-12 col-md-4 text-center border" style="background-color: #90e33c; padding: 100px 50px; border-width: 1cm;>
+  <div class="col-12 col-md-4 text-center border" style="background-color: #90e33c; padding: 100px 50px; border-width: 1cm;">
     <h5 class="m-0 p-0">
       <a class="text-white" href="https://adyanmuhammad.github.io/airs-2/dental-clinics/">
         Dental Clinics
