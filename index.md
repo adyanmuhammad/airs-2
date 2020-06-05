@@ -14,6 +14,8 @@ Our sanitisation process includes Virucidal sanitising to all surfaces, focusing
 
 ### OUR INTERNATIONAL APPLICATION
 
+<video src="https://adyanmuhammad.github.io/airs-2/assets/vid/home.mp4" style="width: 100%;"></video>
+
 We follow this up with a full fogging x-mist process using a powerful germicide and sanitizer to keep your room sterilized for up to 7 days.
 
 Completion of this process will be to:
@@ -29,7 +31,7 @@ Completion of this process will be to:
 
 <div class="row py-5 my-5" style="background-image: url(https://adyanmuhammad.github.io/airs-2/assets/img/residential-care-homes.webp); background-size: cover;">
 
-  <div class="col-12 text-center text-white">
+  <div class="col-12 text-center text-white ">
     <h3>
       Specialist Care Medical & Office Sanitation
     </h3>
