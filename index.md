@@ -3,9 +3,13 @@ layout: home
 title: "Welcome to AIRS Asbestos"
 ---
 
-# Reliable commercial environmental cleaning and asbestos removal professionals serving the UK Since 1989
-​
-## Specialist  Deep  Cleaning & Virus Sanitisation
+<h1 class="text-center">
+  Reliable commercial environmental cleaning and asbestos removal professionals serving the UK Since 1989
+</h1>
+
+<h2 class="text-center">
+  Specialist  Deep  Cleaning & Virus Sanitisation
+</h2>
 
 Airs Environmental Ltd services have developed a virus deep cleaning strategy using guidance from Public Health England to offer a specialist Coronavirus sanitisation service for all non-health care premises that have either suffered from a confirmed case of Coronavirus or wish to take precautionary measures.
 
@@ -42,7 +46,9 @@ Completion of this process will be to:
 - BS EN 14476
 - EU 2015/830
 
-### Our Specialist sanitising teams are available 24 hours a day and have an average arrival time of just over one hour in case of emergency.
+<h3 class="text-center">
+  Our Specialist sanitising teams are available 24 hours a day and have an average arrival time of just over one hour in case of emergency.
+</h3>
 
 <div class="row py-5 my-5" style="background-image: url(https://adyanmuhammad.github.io/airs-2/assets/img/residential-care-homes.webp); background-size: cover;">
 
