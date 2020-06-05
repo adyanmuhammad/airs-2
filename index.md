@@ -11,10 +11,13 @@ title: "Welcome to AIRS Asbestos"
   Specialist  Deep  Cleaning & Virus Sanitisation
 </h2>
 
-Airs Environmental Ltd services have developed a virus deep cleaning strategy using guidance from Public Health England to offer a specialist Coronavirus sanitisation service for all non-health care premises that have either suffered from a confirmed case of Coronavirus or wish to take precautionary measures.
+<p class="text-center">
+  Airs Environmental Ltd services have developed a virus deep cleaning strategy using guidance from Public Health England to offer a specialist Coronavirus sanitisation service for all non-health care premises that have either suffered from a confirmed case of Coronavirus or wish to take precautionary measures.
+</p>
 
-
-Our sanitisation process includes Virucidal sanitising to all surfaces, focusing on touchpoints including equipment, furniture, desks, computers, doors, floors, kitchens and toilets, etc, depending on your requirements.
+<p class="text-center">
+  Our sanitisation process includes Virucidal sanitising to all surfaces, focusing on touchpoints including equipment, furniture, desks, computers, doors, floors, kitchens and toilets, etc, depending on your requirements.
+</p>
 
 <div class="row my-3">
   <div class="col-12 col-lg-6 my-3">
@@ -50,9 +53,9 @@ Completion of this process will be to:
   Our Specialist sanitising teams are available 24 hours a day and have an average arrival time of just over one hour in case of emergency.
 </h3>
 
-<div class="row py-5 my-5" style="background-image: url(https://adyanmuhammad.github.io/airs-2/assets/img/residential-care-homes.webp); background-size: cover;">
+<div class="row py-5 my-5 bg-secondary">
 
-  <div class="col-12 text-center text-white ">
+  <div class="col-12 text-center text-white my-5">
     <h3>
       Specialist Care Medical & Office Sanitation
     </h3>
