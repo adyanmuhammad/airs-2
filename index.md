@@ -12,20 +12,20 @@ Airs Environmental Ltd services have developed a virus deep cleaning strategy us
 
 Our sanitisation process includes Virucidal sanitising to all surfaces, focusing on touchpoints including equipment, furniture, desks, computers, doors, floors, kitchens and toilets, etc, depending on your requirements.
 
-<div class="row">
-  <div class="col-12 col-lg-6">
-    <h2>
+<div class="row my-3">
+  <div class="col-12 col-lg-6 my-3">
+    <h2 class="text-center">
       Our International Application
     </h2>
-    <video style="width: 100%;" controls>
+    <video style="width: 100%; height: 350px;" controls>
       <source src="https://adyanmuhammad.github.io/airs-2/assets/vid/home.mp4"> 
      </video>
   </div>
-  <div class="col-12 col-lg-6">
-    <h2>
+  <div class="col-12 col-lg-6 my-3">
+    <h2 class="text-center">
       Cleaning Procedure
     </h2>
-    <video style="width: 100%;" controls>
+    <video style="width: 100%; height: 350px;" controls>
       <source src="https://adyanmuhammad.github.io/airs-2/assets/vid/cleaning-procedure.mp4"> 
      </video>
   </div>
