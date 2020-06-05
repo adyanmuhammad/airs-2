@@ -5,13 +5,13 @@ permalink: /vetinary-and-animal-welfare-clinics/
 image: vetinary-and-animal-welfare-clinics.webp
 ---
 
-# VETINARY & ANIMAL WELFARE CLINICS
+<!-- # VETINARY & ANIMAL WELFARE CLINICS
 ## Protect Your Vertinary Practice
 Protect against bacteria, viruses, and infection outbreaks
 
 ## AIRS ENVIRONMENTAL
 ### Introduction – A Safer Environment
-The unique protective layer used in ​AIRS ENVIRONMENTAL LTD products ensures your guest environment is microbiologically clean, providing a healthier guest experience.
+The unique protective layer used in ​AIRS ENVIRONMENTAL LTD products ensures your guest environment is microbiologically clean, providing a healthier guest experience. -->
 
 ### Vetinary & Animal Welfare Clinics
 In the highly competitive market of veterinary and animal healthcare, image is important and a major part of that image is the cleanliness of the environment. Staff and clients know that many animals attending will be sick, carrying potentially transferrable infections, so ensuring that the space looks and smells clean, in addition to being safe from infection is essential.

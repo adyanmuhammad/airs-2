@@ -5,14 +5,14 @@ permalink: /military-police-and-armed-forces/
 image: military-police-and-armed-forces.webp
 ---
 
-# MILITARY, POLICE, & ARMED FORCES
+<!-- # MILITARY, POLICE, & ARMED FORCES
 ## Protect Your Business & People
 Protect against bacteria, viruses, and infection outbreaks
 
 ## AIRS ENVIRONMENTAL
 
 ### Introduction – A Safer Environment
-Outbreaks of infections can mean not only lost revenue but also loss of reputation. Products from the AIRS ENVIRONMENTAL LTD use a unique cleaning and disinfection system that provides your care facility with the protection you need to keep your home, clients, and staff safe.
+Outbreaks of infections can mean not only lost revenue but also loss of reputation. Products from the AIRS ENVIRONMENTAL LTD use a unique cleaning and disinfection system that provides your care facility with the protection you need to keep your home, clients, and staff safe. -->
 
 ### Military, Police, & Armed Forces
 The Military and Support sector pride themselves on everything being ‘spotlessly’ clean and ‘ship-shape’. The forces enter physically dangerous zones, not just due to the possibility of attack, but also due to the risk of infections and viruses, such as Ebola, that are rife in certain areas across the world. The troop’s welfare is most important, they must be protected so that they can protect us.

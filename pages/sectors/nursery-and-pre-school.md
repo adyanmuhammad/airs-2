@@ -5,13 +5,13 @@ permalink: /nursery-and-pre-school/
 image: nursery-and-pre-school.webp
 ---
 
-# NURSERY & PRE-SCHOOL
+<!-- # NURSERY & PRE-SCHOOL
 ## Grow in a Protected Environment
 Protect your team and children against bacteria, viruses and infection outbreaks.
 
 ## AIRS ENVIRONMENTAL
 ### Introduction – A Safer Environment
-The unique protective layer used in ​AIRS ENVIRONMENTAL LTD products ensures your guest environment is microbiologically clean, providing a healthier guest experience.
+The unique protective layer used in ​AIRS ENVIRONMENTAL LTD products ensures your guest environment is microbiologically clean, providing a healthier guest experience. -->
 
 ### Nursery & Pre-School
 The early years learning sector has a ’duty of care’ to the people within it, to provide a safe environment. Caring and learning doesn’t only take place indoors, the outdoor classroom is increasing part of children’s development, but with that comes dirt and potential infection – keeping your environment a safe and clean place to grow is essential.

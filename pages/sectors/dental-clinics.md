@@ -4,14 +4,15 @@ title: "Dental Clinics"
 permalink: /dental-clinics/
 image: dental-clinics.webp
 ---
-
+<!-- 
 # DENTAL CLINICS
 ## Protect Your Dental Surgery
 Protect against bacteria, viruses, and infection outbreaks
 
 ## AIRS ENVIRONMENTAL
 ### Introduction – A Safer Environment
-The unique protective layer used in ​AIRS ENVIRONMENTAL LTD products ensures your guest environment is microbiologically clean, providing a healthier guest experience.
+The unique protective layer used in ​AIRS ENVIRONMENTAL LTD products ensures your guest environment is microbiologically clean, providing a healthier guest experience. 
+-->
 
 ### Dental Clinics
 With the increase in viruses and bacteria which are resistant to treatment, the cleanliness and disinfection of health establishments is prevalent. Looking clean in no longer enough, it is essential that the nosocomial pathogens are removed from clinical environments, eliminating the risk of transmission.

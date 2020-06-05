@@ -5,13 +5,13 @@ permalink: /hotel-catering-and-leisure/
 image: hotel-catering-and-leisure.webp
 ---
 
-# HOTEL, CATERING, & LEISURE INDUSTRY
+<!-- # HOTEL, CATERING, & LEISURE INDUSTRY
 ## Protect Your Business & People
 Protect against bacteria, viruses, and infection outbreaks
 
 ## AIRS ENVIRONMENTAL
 ### Introduction – A Safer Environment
-The unique protective layer used in ​AIRS ENVIRONMENTAL LTD products ensures your guest environment is microbiologically clean, providing a healthier guest experience.
+The unique protective layer used in ​AIRS ENVIRONMENTAL LTD products ensures your guest environment is microbiologically clean, providing a healthier guest experience. -->
 
 ### Hotel, Catering & Leisure Industry
 With increasing numbers of reviews on websites, it is essential that you provide a great customer experience. The appearance of cleanliness is not enough, facilities need to be spotless and hygienically clean.

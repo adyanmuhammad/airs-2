@@ -5,14 +5,14 @@ permalink: /manufacture/
 image: manufacture.webp
 ---
 
-# POULTRY & POULTRY PROCESSING INDUSTRY
+<!-- # POULTRY & POULTRY PROCESSING INDUSTRY
 ## Protect Your Business & People
 Protect against bacteria, viruses, and infection outbreaks
 
 ## AIRS ENVIRONMENTAL
 
 ### Introduction – A Safer Environment
-Outbreaks of infections can mean not only lost revenue but also loss of reputation. Products from the AIRS ENVIRONMENTAL LTD use a unique cleaning and disinfection system that provides your care facility with the protection you need to keep your home, clients, and staff safe.
+Outbreaks of infections can mean not only lost revenue but also loss of reputation. Products from the AIRS ENVIRONMENTAL LTD use a unique cleaning and disinfection system that provides your care facility with the protection you need to keep your home, clients, and staff safe. -->
 
 ### Poultry & Poultry Processing Industry
 The rise of media coverage of pathogens such as Avian Flu within the poultry industry has focussed attention on the cleaning and disinfection processes used. Confirmed outbreaks have had a serious effect on poultry businesses, with farm closures, infections in hatcheries, and the reduction of viable egg yield.

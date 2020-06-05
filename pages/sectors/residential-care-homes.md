@@ -5,14 +5,14 @@ permalink: /residential-care-homes/
 image: residential-care-homes.webp
 ---
 
-# RESIDENTIAL CARE HOMES
+<!-- # RESIDENTIAL CARE HOMES
 ## Protect Your Business & People
 Protect against bacteria, viruses, and infection outbreaks
 
 ## AIRS ENVIRONMENTAL
 
 ### Introduction – A Safer Environment
-Outbreaks of infections can mean not only lost revenue but also loss of reputation. Products from the AIRS ENVIRONMENTAL LTD use a unique cleaning and disinfection system that provides your care facility with the protection you need to keep your home, clients, and staff safe.
+Outbreaks of infections can mean not only lost revenue but also loss of reputation. Products from the AIRS ENVIRONMENTAL LTD use a unique cleaning and disinfection system that provides your care facility with the protection you need to keep your home, clients, and staff safe. -->
 
 ### Residential & Care Home Industry
 Clients, their families, and care workers expect not just that the home looks and smells clean, but that it also has the highest standards in hygiene. Older patients are often more vulnerable to infection, so ensuring the home is free from harmful microorganisms is essential to minimise illness.

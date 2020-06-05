@@ -5,13 +5,13 @@ permalink: /trains-and-public-transport/
 image: trains-and-public-transport.webp
 ---
 
-# TRAINS & PUBLIC TRANSPORT
+<!-- # TRAINS & PUBLIC TRANSPORT
 ## Protect Your Transport
 Protect against bacteria, viruses and infection outbreaks using molecular bonding technology.
 
 ## AIRS ENVIRONMENTAL
 ### Introduction – A Safer Environment
-The unique protective layer used in ​AIRS ENVIRONMENTAL LTD products ensures your guest environment is microbiologically clean, providing a healthier guest experience.
+The unique protective layer used in ​AIRS ENVIRONMENTAL LTD products ensures your guest environment is microbiologically clean, providing a healthier guest experience. -->
 
 ### Trains & Public Transport
 Despite the number of private cars on the road, public transport still moves millions of people every day, especially in densely populated city centres.
