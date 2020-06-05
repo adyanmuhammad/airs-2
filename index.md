@@ -53,7 +53,7 @@ Completion of this process will be to:
   Our Specialist sanitising teams are available 24 hours a day and have an average arrival time of just over one hour in case of emergency.
 </h3>
 
-<div class="row py-5 my-5 bg-secondary">
+<div class="row py-5 bg-secondary">
 
   <div class="col-12 text-center text-white my-5">
     <h3>
@@ -64,30 +64,28 @@ Completion of this process will be to:
     </h3>
   </div>
 
-  <div class="col-3">
-    <span class="text-primary">
+  <div class="col-3 bg-white shadow">
+    <span class="text-primary text-center font-weight-bold">
       Certified Professional Cleaners
     </span>
   </div>
 
-  <div class="col-3">
-    <span class="text-muted">
+  <div class="col-3 bg-white shadow">
+    <span class="text-primary text-center font-weight-bold">
       Environmentally Friendly Cleanups
     </span>
   </div>
 
-  <div class="col-3">
-    <span class="text-primary">
+  <div class="col-3 bg-white shadow">
+    <span class="text-primary text-center font-weight-bold">
       100% Satisfaction Guaranteed
     </span>
   </div>
 
-  <div class="col-3">
+  <div class="col-3 bg-white shadow">
     <span class="text-muted">
       Available Evenings & Weekends 
     </span>
   </div>
 
 </div>
-
-{% include carousel-review.html %}
