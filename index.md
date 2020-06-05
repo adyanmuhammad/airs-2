@@ -65,27 +65,27 @@ Completion of this process will be to:
   </div>
 
   <div class="col-3 bg-light text-center border border-transparent p-3">
-    <span class="text-primary text-center font-weight-bold">
+    <h5 class="text-primary text-center font-weight-bold">
       Certified Professional Cleaners
-    </span>
+    </h5>
   </div>
 
   <div class="col-3 bg-light text-center border border-transparent p-3">
-    <span class="text-primary text-center font-weight-bold">
+    <h5 class="text-primary text-center font-weight-bold">
       Environmentally Friendly Cleanups
-    </span>
+    </h5>
   </div>
 
   <div class="col-3 bg-light text-center border border-transparent p-3">
-    <span class="text-primary text-center font-weight-bold">
+    <h5 class="text-primary text-center font-weight-bold">
       100% Satisfaction Guaranteed
-    </span>
+    </h5>
   </div>
 
   <div class="col-3 bg-light text-center border border-transparent p-3">
-    <span class="text-primary text-center font-weight-bold">
+    <h5 class="text-primary text-center font-weight-bold">
       Available Evenings & Weekends 
-    </span>
+    </h5>
   </div>
 
 </div>
