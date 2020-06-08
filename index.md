@@ -1,10 +1,10 @@
 ---
 layout: home
-title: "Welcome to AIRS Asbestos"
+title: "Welcome to AIRS Environmental Ltd."
 ---
 
 <h1 class="text-center">
-  Reliable commercial environmental cleaning and asbestos removal professionals serving the UK Since 1989
+  Reliable commercial environmental cleaning and professionals serving the UK Since 1989
 </h1>
 
 <h2 class="text-center">
@@ -64,25 +64,25 @@ Completion of this process will be to:
     </h3>
   </div>
 
-  <div class="col-3 bg-light text-center border border-transparent p-3">
+  <div class="col-12 col-lg-3 bg-light text-center border border-transparent p-3">
     <h5 class="text-primary text-center font-weight-bold">
       Certified Professional Cleaners
     </h5>
   </div>
 
-  <div class="col-3 bg-light text-center border border-transparent p-3">
+  <div class="col-12 col-lg-3 bg-light text-center border border-transparent p-3">
     <h5 class="text-primary text-center font-weight-bold">
       Environmentally Friendly Cleanups
     </h5>
   </div>
 
-  <div class="col-3 bg-light text-center border border-transparent p-3">
+  <div class="col-12 col-lg-3 bg-light text-center border border-transparent p-3">
     <h5 class="text-primary text-center font-weight-bold">
       100% Satisfaction Guaranteed
     </h5>
   </div>
 
-  <div class="col-3 bg-light text-center border border-transparent p-3">
+  <div class="col-12 col-lg-3 bg-light text-center border border-transparent p-3">
     <h5 class="text-primary text-center font-weight-bold">
       Available Evenings & Weekends 
     </h5>
